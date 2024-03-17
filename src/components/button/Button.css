@@ -1,0 +1,20 @@
+@import url('../../common//forms//form.css');
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button button {
+  border: 0;
+  outline: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button button:focus {
+  outline: none;
+}
