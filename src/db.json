@@ -1,0 +1,268 @@
+[
+  {
+    "title": "Song Title 1",
+    "artist": "Artist 1",
+    "album": "Album 1",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 100,
+      "reddit": 50,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
+    },
+    "image": "https://img.freepik.com/free-photo/volumetric-musical-background-with-treble-clef-notes-generative-ai_169016-29576.jpg?w=1060&t=st=1710675491~exp=1710676091~hmac=3f3505eb4b4533e7e8e3fdf1a70131dbaa1ad32dd4a22c122a5b966583ec090c",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  },
+  {
+    "title": "Song Title 2",
+    "artist": "Artist 2",
+    "album": "Album 2",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 100,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
+    },
+    "image": "https://img.freepik.com/free-photo/volumetric-musical-background-with-treble-clef-notes-generative-ai_169016-29576.jpg?w=1060&t=st=1710675491~exp=1710676091~hmac=3f3505eb4b4533e7e8e3fdf1a70131dbaa1ad32dd4a22c122a5b966583ec090c",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  },
+  {
+    "title": "Song Title 3",
+    "artist": "Artist 3",
+    "album": "Album 3",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 200,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
+    },
+    "image": "https://img.freepik.com/free-photo/volumetric-musical-background-with-treble-clef-notes-generative-ai_169016-29576.jpg?w=1060&t=st=1710675491~exp=1710676091~hmac=3f3505eb4b4533e7e8e3fdf1a70131dbaa1ad32dd4a22c122a5b966583ec090c",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  },
+  {
+    "title": "Song Title 4",
+    "artist": "Artist 4",
+    "album": "Album 1",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 100,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
+    },
+    "image": "https://img.freepik.com/free-photo/volumetric-musical-background-with-treble-clef-notes-generative-ai_169016-29576.jpg?w=1060&t=st=1710675491~exp=1710676091~hmac=3f3505eb4b4533e7e8e3fdf1a70131dbaa1ad32dd4a22c122a5b966583ec090c",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  },
+  {
+    "title": "Song Title 5",
+    "artist": "Artist 5",
+    "album": "Album 1",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 200,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
+    },
+    "image": "https://img.freepik.com/free-photo/volumetric-musical-background-with-treble-clef-notes-generative-ai_169016-29576.jpg?w=1060&t=st=1710675491~exp=1710676091~hmac=3f3505eb4b4533e7e8e3fdf1a70131dbaa1ad32dd4a22c122a5b966583ec090c",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  },
+  {
+    "title": "Song Title 6",
+    "artist": "Artist 6",
+    "album": "Album 1",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 50,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
+    },
+    "image": "https://img.freepik.com/free-photo/volumetric-musical-background-with-treble-clef-notes-generative-ai_169016-29576.jpg?w=1060&t=st=1710675491~exp=1710676091~hmac=3f3505eb4b4533e7e8e3fdf1a70131dbaa1ad32dd4a22c122a5b966583ec090c",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  },
+  {
+    "title": "Song Title 7",
+    "artist": "Artist 2",
+    "album": "Album 1",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 100,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
+    },
+    "image": "https://img.freepik.com/free-photo/volumetric-musical-background-with-treble-clef-notes-generative-ai_169016-29576.jpg?w=1060&t=st=1710675491~exp=1710676091~hmac=3f3505eb4b4533e7e8e3fdf1a70131dbaa1ad32dd4a22c122a5b966583ec090c",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  },
+  {
+    "title": "Song Title 8",
+    "artist": "Artist 3",
+    "album": "Album 4",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 200,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
+    },
+    "image": "https://img.freepik.com/free-photo/volumetric-musical-background-with-treble-clef-notes-generative-ai_169016-29576.jpg?w=1060&t=st=1710675491~exp=1710676091~hmac=3f3505eb4b4533e7e8e3fdf1a70131dbaa1ad32dd4a22c122a5b966583ec090c",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  },
+  {
+    "title": "Song Title 9",
+    "artist": "Artist 3",
+    "album": "Album 1",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 200,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
+    },
+    "image": "https://img.freepik.com/free-photo/volumetric-musical-background-with-treble-clef-notes-generative-ai_169016-29576.jpg?w=1060&t=st=1710675491~exp=1710676091~hmac=3f3505eb4b4533e7e8e3fdf1a70131dbaa1ad32dd4a22c122a5b966583ec090c",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  },
+  {
+    "title": "Song Title 10",
+    "artist": "Artist 2",
+    "album": "Album 1",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 200,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
+    },
+    "image": "https://img.freepik.com/free-photo/volumetric-musical-background-with-treble-clef-notes-generative-ai_169016-29576.jpg?w=1060&t=st=1710675491~exp=1710676091~hmac=3f3505eb4b4533e7e8e3fdf1a70131dbaa1ad32dd4a22c122a5b966583ec090c",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  },
+  {
+    "title": "Song Title 12",
+    "artist": "Artist 1",
+    "album": "Album 1",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 200,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
+    },
+    "image": "https://img.freepik.com/free-photo/volumetric-musical-background-with-treble-clef-notes-generative-ai_169016-29576.jpg?w=1060&t=st=1710675491~exp=1710676091~hmac=3f3505eb4b4533e7e8e3fdf1a70131dbaa1ad32dd4a22c122a5b966583ec090c",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  },
+  {
+    "title": "Song Title 17",
+    "artist": "Artist 1",
+    "album": "Album 1",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 200,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
+    },
+    "image": "https://img.freepik.com/free-photo/volumetric-musical-background-with-treble-clef-notes-generative-ai_169016-29576.jpg?w=1060&t=st=1710675491~exp=1710676091~hmac=3f3505eb4b4533e7e8e3fdf1a70131dbaa1ad32dd4a22c122a5b966583ec090c",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  },
+  {
+    "title": "Song Title 23",
+    "artist": "Artist 1",
+    "album": "Album 1",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 200,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
+    },
+    "image": "https://img.freepik.com/free-photo/volumetric-musical-background-with-treble-clef-notes-generative-ai_169016-29576.jpg?w=1060&t=st=1710675491~exp=1710676091~hmac=3f3505eb4b4533e7e8e3fdf1a70131dbaa1ad32dd4a22c122a5b966583ec090c",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  },
+  {
+    "title": "Song Title 24",
+    "artist": "Artist 4",
+    "album": "Album 1",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 200,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
+    },
+    "image": "https://img.freepik.com/free-photo/volumetric-musical-background-with-treble-clef-notes-generative-ai_169016-29576.jpg?w=1060&t=st=1710675491~exp=1710676091~hmac=3f3505eb4b4533e7e8e3fdf1a70131dbaa1ad32dd4a22c122a5b966583ec090c",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  }
+]

@@ -6,7 +6,7 @@ export default function Layout({ children }) {
   return (
     <>
       <Navbar />
-      {children}
+      <div className='min-h-screen'>{children}</div>
       <Footer />
     </>
   );

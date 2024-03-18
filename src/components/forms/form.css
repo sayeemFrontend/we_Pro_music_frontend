@@ -1,0 +1,3 @@
+.input-class {
+  @apply focus-within:outline outline-secondary-300 bg-primary-700 h-9;
+}

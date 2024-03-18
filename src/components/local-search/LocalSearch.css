@@ -1,0 +1,11 @@
+.searched-box {
+  position: absolute;
+  top: 100%;
+  width: 100%;
+  z-index: 99;
+  max-height: 270px;
+  overflow-y: auto;
+  min-height: 100px;
+  left: 50%;
+  transform: translateX(-50%);
+}

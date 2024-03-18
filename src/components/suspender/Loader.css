@@ -1,0 +1,23 @@
+@keyframes spinner {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.loading-spinner {
+  position: absolute;
+  left: 50%;
+  margin-top: 70px;
+  transform: translate(-50%);
+  z-index: 99;
+  width: 40px;
+  height: 40px;
+  border-width: 8px;
+  border-top-width: 8px;
+  border-style: solid;
+  border-radius: 100%;
+  animation: spinner 1.5s linear infinite;
+  @apply border-t-primary-700 border-primary-200 dark:border-primary-500 dark:border-t-primary-700;
+}

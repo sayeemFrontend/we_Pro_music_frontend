@@ -2,14 +2,14 @@
 import PropTypes from 'prop-types';
 
 import './Button.css';
-const allowedValues = ['a', 'b'];
+const allowedValues = ['submit', 'reset', 'button'];
 function anyOfValues(props, propName, componentName) {
   if (!allowedValues.includes(props[propName])) {
     return new Error(`Invalid prop ${propName} supplied to ${componentName}. ` + `Expected one of ${allowedValues.join(', ')}.`);
   }
 }
 
-export default function Button({ children, title = '', type = 'a', className = '', onClick = () => {} }) {
+export default function Button({ children, title = '', type = 'button', className = '', onClick = () => {} }) {
   return (
     <div onClick={onClick} className={`button ${className}`}>
       <button type={type}>{children ? children : title}</button>
@@ -21,7 +21,6 @@ Button.propTypes = {
   type: anyOfValues,
   validation: PropTypes.func,
   onClick: PropTypes.func,
-  name: PropTypes.string.isRequired,
   children: PropTypes.element,
   className: PropTypes.string,
   title: PropTypes.string,
