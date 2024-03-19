@@ -23,9 +23,9 @@ Follow these steps to get the application running on your local machine:
 
 4.  Environment Setup
 
-    # Create .env file in base directory
+     Create .env file in base directory
 
-    # define following variables in .env file
+     define following variables in .env file
 
         VITE_APP_BASE_URL_DEV='http://localhost:5001/api'
         VITE_APP_BASE_URL_PROD='https://wegro-music-api.onrender.com/api'
