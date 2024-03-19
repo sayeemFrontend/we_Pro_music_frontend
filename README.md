@@ -42,3 +42,6 @@ Follow these steps to get the application running on your local machine:
         npm run build   
 
 8.  This generates a dist folder. Server this folder for production view
+
+
+The project is live on https://we-gro-music-frontend.vercel.app/
