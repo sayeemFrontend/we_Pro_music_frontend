@@ -1,6 +1,5 @@
 import { cookies } from './cookies';
 const baseUrl = import.meta.env.MODE === 'production' ? import.meta.env.VITE_APP_BASE_URL_PROD : import.meta.env.VITE_APP_BASE_URL_DEV;
-const PRIVATE_KEY = import.meta.env.VITE_APP_S_KEY;
 
 function getTokens() {
   const token = cookies.getCookies('a_t');
@@ -24,4 +23,4 @@ function getHeaders() {
   return headers;
 }
 
-export const credentials = { baseUrl, getHeaders, getTokens, setTokens, PRIVATE_KEY };
+export const credentials = { baseUrl, getHeaders, getTokens, setTokens };

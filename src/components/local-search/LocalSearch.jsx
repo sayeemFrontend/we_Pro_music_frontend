@@ -36,7 +36,7 @@ export default function LocalSearch({ contentClass = 'p-2 rounded-sm', displayKe
 
   return (
     <div ref={divRef} className='relative'>
-      <Input onFocus={() => setListShow(false)} onSearch={handleSearchInput} icon={true} className='border rounded-sm h-10 border-primary-700 bg-primary-800 focus-within:bg-primary-700' name='' placeholder='Enter keyword' />
+      <Input onFocus={() => setListShow(false)} onSearch={handleSearchInput} icon={true} className='border rounded-sm h-10 border-primary-700 bg-primary-800 focus-within:bg-primary-700' name='' placeholder='Search by title' />
       <div className='searched-box'>
         <ul className={`shadow-lg text-sm text-primary-700 dark:text-primary-100 bg-primary-300 dark:bg-primary-800 ${contentClass} min-h-[100px] ${listShow ? 'block' : 'hidden'}`}>
           {!tempOptions.length ? (
