@@ -35,7 +35,9 @@ Follow these steps to get the application running on your local machine:
 
         npm run dev
 
-6.  open browser http://localhost:5001 to view thw application
+6. make sure backend server is running on PORT 5001 to connect with backed
+
+6.  open browser http://localhost:5173 or (any port) to view the application
 
 7.  For production mode start the application by running the following command and serve dist folder.
         
